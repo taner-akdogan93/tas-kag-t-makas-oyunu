@@ -1,2 +1,2 @@
-# tas-kag-t-makas-oyunu
+# tas-kagit-makas-oyunu
 TAŞ KAĞIT MAKAS OYUNU
